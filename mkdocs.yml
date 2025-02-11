@@ -1,4 +1,48 @@
+# General information
 site_name: Wakweli Whitepaper
 site_url: https://whitepaper.wakweli.com
+site_description: Wakweli Whitepaper
+site_author: Wakweli Foundation
+copyright: (c) Wakweli Foundation 2025
+
+# Theme
 theme:
   name: material
+  logo: assets/favicon.svg
+  favicon: assets/favicon.svg
+  features:
+    - navigation.instant
+    - navigation.footer
+
+  font:
+    text: Montserrat Light
+  palette: 
+    - scheme: slate
+      primary: black
+      accent: green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: indigo
+      accent: green
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+
+
+        # Page tree
+nav:
+  - Home: index.md
+  - Getting started:
+    - Page 1: page1.md
+    - Page 2: page2.md
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/wakwelichain
