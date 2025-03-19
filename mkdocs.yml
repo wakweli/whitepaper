@@ -36,7 +36,7 @@ theme:
 
         # Page tree
 nav:
-  - Project Overview: overview.md
+  - Project Overview: index.md
   - Introduction: introduction.md
   - Technology: technology.md
   - $WAKU Tokenomics: waku.md
