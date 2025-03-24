@@ -13,7 +13,6 @@ theme:
   features:
     - navigation.instant
     - navigation.footer
-
   font:
     text: Montserrat Light
   palette: 
@@ -32,9 +31,11 @@ theme:
         icon: material/brightness-7 
         name: Switch to dark mode
 
+# Extensions
+markdown_extensions:
+  - attr_list
 
-
-        # Page tree
+# Page tree
 nav:
   - Project Overview: index.md
   - Introduction: introduction.md

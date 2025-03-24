@@ -3,7 +3,7 @@
 With Wakweli, we are building a powerful and innovative technological foundation to ensure trust, transparency, and authenticity in the digital world. Here’s how it works:
 
 - **A Scalable and Decentralized Blockchain Solution**
-    - Our project is powered by a robust smart contract engine deployed on a cost-efficient EVM Layer-2 Blockchain. (Base Blockchain (Layer-2))
+    - Our project is powered by a robust smart contract engine deployed on Base, a cost-efficient EVM Layer-2 Blockchain.
     - This ensures scalability and efficiency, allowing for high performance without compromising Wakweli's commitment to decentralization.
 - **Proof-of-Democracy (PoD) Consensus Algorithm**
     - At the heart of Wakweli is the Proof-of-Democracy (PoD) consensus, a unique mechanism designed to ensure authenticity through community-driven validation.
@@ -26,7 +26,7 @@ ___
 
 Once a certificate is generated, a Wakweli tick mark ![Tickmark](assets/tickmark-icons/icon16-green.png) will appear through the Wakweli Chrome Extension. A green tick mark ![Green Tickmark](assets/tickmark-icons/icon16-green.png) indicates a legitimate certificate, while a red tick mark ![Red Tickmark](assets/tickmark-icons/icon16-red.png) highlights a potential scam, helping users navigate the digital ecosystem with confidence.
 
-> You can download the Chrome Extension here: [Wakweli on Chrome Web Store](https://chromewebstore.google.com/detail/wakweli/bhlmfakmgikajjenjhafifmdkkjchcli)
+> You can download the Chrome Extension here: [Wakweli on Chrome Web Store](https://chromewebstore.google.com/detail/wakweli/bhlmfakmgikajjenjhafifmdkkjchcli){:target="_blank"}
 
 ### 3. Rewards for Certificate Generation
 

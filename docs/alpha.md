@@ -2,7 +2,7 @@
 
 After concluding three successful Alpha phases, where a select group of testers validated NFT authenticity on OpenSea during the first two phases and certified profiles on X (formerly Twitter) in the third, Wakweli's cutting-edge certification technology has demonstrated its capabilities across digital platforms.
 
-Explore our journey at [https://alpha.wakweli.com](https://alpha.wakweli.com).
+Explore our journey at [https://alpha.wakweli.com](https://alpha.wakweli.com){:target="_blank"}.
 
 ___
 
