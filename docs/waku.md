@@ -16,7 +16,7 @@ The token supply will be hosted on Ethereum, with a percentage sent to the Base 
   
 | | Locked + Vesting Period (linear, mth) | % Alloc Total Supply | Total # of Tokens | % Unlocked at Genesis (TGE) | # of tokens at Genesis | # of tokens to be released |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| [SOLDOUT] Private Sale - Protocol Incubation | 3~12 <br/>+ 9~12 | 16,5% | 165M | 3,3~5% | ~6.6M | ~158M |
+| [SOLDOUT] Private Sale - Protocol Incubation | 3~12 <br/>+ 9~12<br/>*(details below)* | 16,5% | 165M | 3,3~5% | ~6.6M | ~158M |
 | [OPEN]  Private Sale - Protocol Pre-Launch | 2 + 6 | 10% | 100M | 5% | 5M | 95M |
 | Listing, Liquidity, Launchpool | 0 + 0 | 6% | 60M | 100% | 60M | - |
 | Airdrop | 1 + 11 | 10% | 100M | 10% | 10M | 90M |
@@ -36,6 +36,16 @@ The token supply will be hosted on Ethereum, with a percentage sent to the Base 
 $WAKU is essential to the protocol's operations, forming the foundation of the PoD. Ownership of $WAKU is necessary for participation, and contributors are rewarded with $WAKU for fostering trust and collaboration.
 
 In addition, $WAKU will be used to vote on proposals governing the Wakweli Foundation.
+
+***Vesting & cliff details for Protocol Incubation's Private Sale***
+
+|  | Locked + Vesting Period (linear, mth) | % Alloc Total Supply | Total # of Tokens | % Unlocked at Genesis (TGE) | # of tokens at Genesis | # of tokens to be released |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Pre-Seed | 12 + 12 | 5% | 50M | 3,3% | 1.65M | 48.35M |
+| Seed | 9 + 12 | 5% | 50M | 3.3% | 1.65M | 48.35M |
+| Strategic Early | 6 + 9 | 5.2% | 52M | 5% | 2.6M | 49.4M |
+| Strategic | 3 + 9 | 1.3% | 13M | 5% | 0.65M | 12.35M |
+| **Total** | | **16,5%** | **165M** | **~4.0%** | **6.55M** | **158.45M** |
 
 ## Business Model
 
