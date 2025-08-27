@@ -13,6 +13,7 @@ theme:
   features:
     - navigation.instant
     - navigation.footer
+    - navigation.sections
   font:
     text: Montserrat Light
   palette: 
@@ -46,6 +47,12 @@ nav:
   - Wakweli Foundation: foundation.md
   - Roadmap: roadmap.md
   - Conclusion: conclusion.md
+  - Canary Mainnet:
+    - What is the Canary Mainnet?: canary.md
+    - Bridge $KIW on Base: bridge.md
+    - Free gas with Base Account: baseaccount.md
+    - Get $KIW from the faucet: faucet.md
+    - $KIW approval system: approve.md
 
 extra:
   generator: false

@@ -10,3 +10,6 @@ Docs:
 https://www.mkdocs.org/
 https://squidfunk.github.io/mkdocs-material/getting-started/
 https://squidfunk.github.io/mkdocs-material/setup/
+
+source ../mkdocs-material/bin/activate
+mkdocs serve
