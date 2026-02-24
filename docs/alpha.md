@@ -2,9 +2,9 @@
 
 After concluding three successful Alpha phases, where a select group of testers validated NFT authenticity on OpenSea during the first two phases and certified profiles on X (formerly Twitter) in the third, Wakweli's cutting-edge certification technology has demonstrated its capabilities across digital platforms.
 
-Explore our journey at [https://alpha.wakweli.com](https://alpha.wakweli.com){:target="_blank"}.
+Explore our journey at [https://alpha.wakweli.com](https://alpha.wakweli.com){:target="\_blank"}.
 
-___
+---
 
 ## Alpha 1.0 - OpenSea NFT - Oct 2023
 
@@ -15,6 +15,7 @@ ___
 <br /><img src="../assets/alpha1.png" alt="Waku" width="30%" />
 
 ## Alpha 2.0 - OpenSea NFT - Apr-June 2024
+
 - Requests: 52K
 - Certificates Issued: 37K
 - Challenges: 1,2K
@@ -30,3 +31,10 @@ ___
 - Rewards: 800K $KIW (48K USD)
 
 <br /><img src="../assets/alpha3.png" alt="Waku" width="30%" />
+
+## Alpha 4.0 - October 2025
+
+- 2-week Flash Challenge
+- On Canary Mainnet
+- Total Requests: 2K
+- Total Certificates Issued: 1,2K

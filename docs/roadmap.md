@@ -1,12 +1,14 @@
 # Roadmap
 
 ## 2021
+
 - Whitepaper & Pitch Deck
 - Proof-of-Democracy Concept
 - Seed Sale Launch
 - Creation of The Team
 
 ## 2022
+
 - Brand Strategy & Visual Identity
 - Tokenomics Refinement
 - Advisory Board Creation
@@ -16,9 +18,10 @@
 - Bootstrapped Partnerships Ecosystem Growth
 
 ## 2023
+
 - 3 New Key Partnerships
 - Attended 9 International Events
-- Press Coverage in 50+  medias
+- Press Coverage in 50+ medias
 - Participated in the Tech4Trust (Season 5) accelerator program
 - Refined Game Theory
 - Alpha 1.0 (OpenSea - NFTs)
@@ -26,6 +29,7 @@
 - Complementary Funding Round
 
 ## 2024
+
 - Alpha 2.0 (OpenSea - NFTs)
 - World Roadshow with Swiss Delegation (Tech4Trust)
 - Attended Local & International Events
@@ -35,23 +39,27 @@
 - Protocol Enhancements
 - Launchpads & Listing Preparation
 
-## S1 2025
+## 2025
+
 - Smart Contract Engine development for L2 release
-- Wakweli Testnet & Mainnet Launch
-- Collaboration with L2 Partners
-- Token Generation Event
-- $WAKU Listing
-
-## S2 2025
+- Base Builders Program Collaboration
+- Wakweli Testnet Phase on Base Sepolia
+- Wakweli Canary Mainnet Launch
+- Airdrop Campaign on Canary Mainnet
 - Integration of New Sectors & Certification Frameworks
-- Foundation Team Expansion
-- Collaboration with Academics, Foundations & NGOs
-- Launch Digital Trust Education Initiative
 - Protocol & Game Theory Refinement
-- Unroll Partners & Developers Grant Program
 
-## 2026
+## S1 2026
+
+- Farcaster “Wakweli Trust Score” mini app release
+- $WAKU Token Generation Event & Listing - March 30, 2026
+- Strategic Partnerships Development
 - Continuous Integration of New Certification Frameworks
+
+## S2 2026
+
 - Foundation Team Ramp Up with Internal Sector Experts Hires
-- Development of Institutional Partners Network
+- Collaboration with Academics, Foundations & NGOs
+- Unroll Partners Developers Grant Program
+- Launch Digital Trust Education Initiative
 - Protocol Refinements, R&D, Analysis for L1 Migration
