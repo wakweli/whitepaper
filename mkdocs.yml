@@ -53,6 +53,10 @@ nav:
     - Free gas with Base Account: baseaccount.md
     - Get $KIW from the faucet: faucet.md
     - $KIW approval system: approve.md
+  - Wakweli Mainnet:
+    - Bridge $WAKU on Base: bridge-waku.md
+    - Free gas with Base Account: baseaccount-waku.md
+    - $WAKU approval system: approve-waku.md
 
 extra:
   generator: false
